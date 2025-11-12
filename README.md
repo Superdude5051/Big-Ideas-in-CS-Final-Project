@@ -22,7 +22,7 @@ DATASET OVERVIEW:
 Jeremy:
 The dataset tracks arrests in Pittsburgh, along with information such as the neighborhood where they occurred and the time.
 
-Eric:
+Eric: Dataset is a massive catalog of traffic studies across the city, including information about average car and bike counts per day, speed limits at the recorded area and a bunch of speed data.
 
 Amartya:
 The dataset has the daily AQI of different neighbourhoods based on differed parameters commonly used to gauge AQI index. 
