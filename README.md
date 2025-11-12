@@ -20,6 +20,7 @@ Amartya's dataset - https://data.wprdc.org/dataset/allegheny-county-air-quality
 DATASET OVERVIEW:
 
 Jeremy:
+The dataset tracks arrests in Pittsburgh, along with information such as the neighborhood where they occurred and the time.
 
 Eric:
 
